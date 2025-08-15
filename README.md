@@ -4,7 +4,7 @@
 
 Me chamo Lucas Tomaz Carmo Silva, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas de Informação na UFV campus Rio Paranaiba. Sou apaixonado por tecnologia e busco aprimorar meus conhecimentos em areas como engenharia de dados ou analise de dados, através de cursos de SQL, PYTHON, POWERBI e criação de projetos envolvendo essas tecnologias.
 
-Linkedin: "[Lucas Tomaz] (https://www.linkedin.com/in/lucastomaz03)"
+Linkedin: "[Lucas Tomaz](https://www.linkedin.com/in/lucastomaz03)"
 
 <p align="left">
     <a href="https://github.com/lucastomazcs?tab=repositories&sort=stargazers">
